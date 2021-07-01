@@ -1,0 +1,34 @@
+svg{
+    color: rgb(53, 124, 255) ;
+    
+   
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+    text-shadow: rgb(53, 124, 255) 3px 1px 5px, rgb(53, 124, 255) -3px -1px 5px;
+  
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(53, 124, 255)  ;
+    text-align: center;
+    text-shadow: gray 2px 2px 3px;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(53, 124, 255)  ;
+    text-align: center;
+    text-shadow: gray 2px 2px 3px;
+}
+
+form{
+    padding: 5px;
+    margin: 80px;
+    box-shadow: rgb(53, 124, 255) 5px 5px 10px, rgb(53, 124, 255) -5px -5px 10px; 
+    
+}
